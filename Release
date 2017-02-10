@@ -1,8 +1,8 @@
-Origin: MU's Repo
-Label: MU's Repo
+Origin: iPhoneTech's Repo
+Label: iPhoneTech's Repo
 Suite: stable
 Version: 1.0
-Codename MU
+Codename ios
 Architectures: iphoneos-arm
 Components: main
-Description: MU's Repo
+Description: iPhoneTech's Repo managed by @MUsalehofficial

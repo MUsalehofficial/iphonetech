@@ -1,0 +1,15 @@
+Package: io.iphonetech.github
+Name: Stashing
+Depends: firmware (>= 9.2), firmware (<= 10.2)
+Version: 1.4.9
+Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
+Architecture: iphoneos-arm
+Description: (for iOS 9.2 to 10.2) Stash 3rd party components to make more space for them!
+Maintainer: iPhoneTech <musalehofficial@outlook.com>
+Author: iPhoneTech <musalehofficial@outlook.com>
+Section: System
+Filename: ./debs/Stashing.deb
+Size: 29590
+MD5sum: f76c5695077abd2f72f0e181738e6eb0
+Homepage: https://www.fb.com/groups/iphonetech
+
