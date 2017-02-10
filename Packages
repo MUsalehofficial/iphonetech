@@ -1,4 +1,4 @@
-Package: com.iphonetech.stashing
+Package: org.coolstar.stash933
 Name: Stashing
 Depends: firmware (>= 9.2), firmware (<= 10.2)
 Version: 1.4.9
