@@ -31,3 +31,17 @@ SHA256: 2ed33cbfccee1ac819e355c24ff24ecf141399a47da7c22ab48286cdec6af479
 Section: Utilities
 Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.cydiafailsafe/index.html
+
+Package: com.iphonetech.mterminal
+Name: Terminal
+Version: 1.4-5
+Architecture: iphoneos-arm
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Filename: ./debs/MTerminal_1.4-5_.deb
+Size: 107
+MD5sum: ca89ef2a021eb532ab64a3f584d4c9d4
+SHA1: 86a7feea0d4c0c21bf169ac7c5e25ce1f8079724
+Section: Utilities
+Description: A stripped-down, lightweight MobileTerminal fork with tap zones.
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.mterminal/index.html
