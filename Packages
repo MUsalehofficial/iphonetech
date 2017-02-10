@@ -30,6 +30,7 @@ SHA256: 2ed33cbfccee1ac819e355c24ff24ecf141399a47da7c22ab48286cdec6af479
 Section: Utilities
 Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.cydiafailsafe/index.html
+Icon: ./depic/com.iphonetech.cydiafailsafe/icon.png
 
 Package: com.iphonetech.mterminal
 Name: Terminal
