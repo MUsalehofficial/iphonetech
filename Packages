@@ -1,17 +1,33 @@
 Package: org.coolstar.stash933
 Name: Stashing
 Depends: firmware (>= 9.2), firmware (<= 10.2)
-Version: 1.4.9
+Version: 1.4.9m
 Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
 Architecture: iphoneos-arm
 Description: (for iOS 9.2 to 10.2) Stash 3rd party components to make more space for them!
-Maintainer: iPhoneTech <musalehofficial@outlook.com>
-Author: iPhoneTech <musalehofficial@outlook.com>
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
 Section: System
-Filename: ./debs/Stashing.deb
+Filename: ./debs/Stashing_1.4.9_.deb
 Size: 29590
 MD5sum: f76c5695077abd2f72f0e181738e6eb0
 SHA1: 7c90929736f353536ee86446e1f85915a03591ac
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.stashing/index.html
 Homepage: https://www.fb.com/groups/iphonetech
 
+Package: nl.d4ni.cydiainstall
+Name: Cydia Failsafe
+Version: 1.1-1m
+Architecture: iphoneos-arm
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Installed-Size: 2292
+Depends: firmware (>= 10.0), firmware (<= 10.2)
+Filename: ./debs/CydiaFailSafe_1.1.1_.deb
+Size: 1810036
+MD5sum: 83f182b2d32b14878053ba2a1a1b92a1
+SHA1: 1d04a01713ecf50894a577ade5f5204936bb8eb3
+SHA256: 2ed33cbfccee1ac819e355c24ff24ecf141399a47da7c22ab48286cdec6af479
+Section: Utilities
+Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
+Depiction: https://repo.d4ni.nl/depictions/?dep=nl.d4ni.cydiainstall
