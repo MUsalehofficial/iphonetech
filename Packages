@@ -1,4 +1,4 @@
-Package: org.coolstar.stash933
+Package: com.iphonetech.stashing
 Name: Stashing
 Depends: firmware (>= 9.2), firmware (<= 10.2)
 Version: 1.4.9-m
@@ -15,7 +15,7 @@ SHA1: 7c90929736f353536ee86446e1f85915a03591ac
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.stashing/index.html
 Homepage: https://www.fb.com/groups/iphonetech
 
-Package: nl.d4ni.cydiainstall
+Package: com.iphonetech.cydiafailsafe
 Name: Cydia Failsafe
 Version: 1.1-1-m
 Architecture: iphoneos-arm
@@ -30,4 +30,4 @@ SHA1: 1d04a01713ecf50894a577ade5f5204936bb8eb3
 SHA256: 2ed33cbfccee1ac819e355c24ff24ecf141399a47da7c22ab48286cdec6af479
 Section: Utilities
 Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
-Depiction: https://repo.d4ni.nl/depictions/?dep=nl.d4ni.cydiainstall
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.cydiafailsafe/index.html
