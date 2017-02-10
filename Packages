@@ -25,9 +25,8 @@ Installed-Size: 2292
 Depends: firmware (>= 10.0), firmware (<= 10.2)
 Filename: ./debs/CydiaFailSafe_1.1.1_.deb
 Size: 1810036
-MD5sum: 83f182b2d32b14878053ba2a1a1b92a1
-SHA1: 1d04a01713ecf50894a577ade5f5204936bb8eb3
-SHA256: 2ed33cbfccee1ac819e355c24ff24ecf141399a47da7c22ab48286cdec6af479
+MD5sum: 232023da2bde20d0916f356050562610
+SHA1: 80c556bc7f700745ff4de013d2056a0773157d25
 Section: Utilities
 Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.cydiafailsafe/index.html
