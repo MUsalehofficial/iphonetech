@@ -59,3 +59,18 @@ SHA1: a71c9b56e6ad51468d5e15b2d08e755fde466c69
 Section: Tweaks
 Description: Prevent expiration of signed iOS applications & bypass 3 free signed applications per device limit.
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.immortal/index.html
+
+Package: com.iphonetech.anemone
+Name: Anemone
+Version: 2.1.1-14
+Architecture: iphoneos-arm
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Filename: ./debs/Anemone_2.1.1-14_.deb
+Size: 1873
+Depends: firmware (>= 7.0), firmware (<= 10.2)
+MD5sum: 34221023293d9be3d06d8bfe37af5b6c
+SHA1: d0b4c8bd391647fc80707220a4a0318a3d8235ab
+Section: Tweaks
+Description: An awesome theming engine for iOS 7 through iOS 10!
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.anemone/index.html
