@@ -30,7 +30,6 @@ SHA256: 2ed33cbfccee1ac819e355c24ff24ecf141399a47da7c22ab48286cdec6af479
 Section: Utilities
 Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.cydiafailsafe/index.html
-Icon: file:///depic/com.iphonetech.cydiafailsafe/icon.png
 
 Package: com.iphonetech.mterminal
 Name: Terminal
@@ -45,3 +44,18 @@ SHA1: 86a7feea0d4c0c21bf169ac7c5e25ce1f8079724
 Section: Utilities
 Description: A stripped-down, lightweight MobileTerminal fork with tap zones.
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.mterminal/index.html
+
+Package: com.iphonetech.immortal
+Name: Immortal
+Version: 1.2.1-2
+Architecture: iphoneos-arm
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Filename: ./debs/Immortal_1.2.1-1_.deb
+Size: 9
+Depends: firmware (>= 10.0), firmware (<= 10.2)
+MD5sum: 48fadf58f71acea4ef0b7f6d024b4b8e
+SHA1: a71c9b56e6ad51468d5e15b2d08e755fde466c69
+Section: Tweaks
+Description: Prevent expiration of signed iOS applications & bypass 3 free signed applications per device limit.
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.immortal/index.html
