@@ -62,13 +62,19 @@ Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.immortal/ind
 
 Package: com.iphonetech.anemone
 Name: Anemone
+Priority: optional
 Version: 2.1.1-14
 Architecture: iphoneos-arm
 Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
 Author: iPhoneTech - #MU <musalehofficial@outlook.com>
 Filename: ./debs/Anemone_2.1.1-14_.deb
-Size: 1873
-Depends: firmware (>= 7.0), firmware (<= 10.2)
+Size: 1873260
+Installed-Size: 8232
+Icon: file:///Applications/Anemone.app/icon.png
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm, com.anemonetheming.anemone
+Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm, com.anemonetheming.anemone
 MD5sum: 34221023293d9be3d06d8bfe37af5b6c
 SHA1: d0b4c8bd391647fc80707220a4a0318a3d8235ab
 Section: Tweaks
