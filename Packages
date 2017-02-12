@@ -100,3 +100,19 @@ Section: Tweaks
 Description: Replaces carrier text with an image!
 Icon: http://i.imgur.com/tvLxnB5.png
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.zeppelin/index.html
+
+Package: com.iphonetech.zeppelinahlyzamalekaddon
+Name: Ahly & Zamalek addon for Zeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Sponsor: iPhoneTech - #MU <musalehofficial@outlook.com>
+Size: 31kb
+Depends: firmware (>= 9.1), com.iphonetech.zeppelin
+Filename: ./debs/Zeppelin_Ahly_Zamalek_Addon_.deb
+MD5sum: d2bc9f91a164e8ad8bfe957732c50125
+SHA1: fad7e81df966ab6e0c53b2b3392973c640b90011
+Section: Addons (Zeppelin)
+Description: Replaces carrier text with an ElAhly or ElZamalek logo!
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.zeppelinahlyzamalekaddon/index.html
