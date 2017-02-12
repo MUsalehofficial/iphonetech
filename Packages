@@ -109,7 +109,8 @@ Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
 Author: iPhoneTech - #MU <musalehofficial@outlook.com>
 Sponsor: iPhoneTech - #MU <musalehofficial@outlook.com>
 Size: 31kb
-Depends: firmware (>= 9.1), com.iphonetech.zeppelin
+Pre-Depends: com.iphonetech.zeppelin
+Depends: firmware (>= 9.1)
 Filename: ./debs/Zeppelin_Ahly_Zamalek_Addon_.deb
 MD5sum: d2bc9f91a164e8ad8bfe957732c50125
 SHA1: fad7e81df966ab6e0c53b2b3392973c640b90011
