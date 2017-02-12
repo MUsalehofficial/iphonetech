@@ -111,8 +111,8 @@ Sponsor: iPhoneTech - #MU <musalehofficial@outlook.com>
 Size: 31kb
 Depends: firmware (>= 9.1)
 Filename: ./debs/Zeppelin_Ahly_Zamalek_Addon_.deb
-MD5sum: d2bc9f91a164e8ad8bfe957732c50125
-SHA1: fad7e81df966ab6e0c53b2b3392973c640b90011
+MD5sum: a2fc347dc4582ea93f5e14e0cec43f8e
+SHA1: b1fedfa581f48365f880940da54385b44c3a548e
 Section: Addons (Zeppelin)
 Description: Replaces carrier text with an ElAhly or ElZamalek logo!
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.zeppelinahlyzamalekaddon/index.html
