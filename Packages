@@ -81,7 +81,7 @@ Section: Tweaks
 Description: An awesome theming engine for iOS 7 through iOS 10!
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.Anemone/index.html
 
-Package: com.iphonetech.zeppelin
+Package: com.alexzielenski.zeppelin
 Name: Zeppelin
 Version: 2.1.1-1
 Architecture: iphoneos-arm
