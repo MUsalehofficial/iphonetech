@@ -81,26 +81,6 @@ Section: Tweaks
 Description: An awesome theming engine for iOS 7 through iOS 10!
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.Anemone/index.html
 
-Package: com.alexzielenski.zeppelin
-Name: Zeppelin
-Version: 2.1.1-1
-Architecture: iphoneos-arm
-Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
-Author: iPhoneTech - #MU <musalehofficial@outlook.com>
-Sponsor: iPhoneTech - #MU <musalehofficial@outlook.com>
-Size: 961890
-Installed-Size: 2196
-Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
-Conflicts: com.alexzielenski.zeppelin
-Filename: ./debs/Zeppelin_2.1.1-1_.deb
-MD5sum: 2efd4f65eecd969fc7dca751a6beb072
-SHA1: 0907ac534585dd77db4fb0965a9758542915c3a5
-SHA256: e33f60859985ed1f70eb25ee99ea964bd31067cb54c6d4ceddbaa3ca001a533f
-Section: Tweaks
-Description: Replaces carrier text with an image!
-Icon: http://i.imgur.com/tvLxnB5.png
-Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.zeppelin/index.html
-
 Package: com.iphonetech.zeppelinahlyzamalekaddon
 Name: Ahly & Zamalek addon for Zeppelin
 Version: 1.0
