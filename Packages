@@ -81,17 +81,22 @@ Section: Tweaks
 Description: An awesome theming engine for iOS 7 through iOS 10!
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.Anemone/index.html
 
-Package: com.iphonetech.zeppelinahlyzamalekaddon
-Name: Ahly & Zamalek addon for Zeppelin
-Version: 1.0
-Architecture: iphoneos-arm
+Package: com.iphonetech.appsyncunified
+Section: Tweaks
+Installed-Size: 156
 Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Architecture: iphoneos-arm
+Version: 5.9
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Depends: firmware (<= 11.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, net.angelxwind.appsyncunified
+Filename: ./files-deb/net.angelxwind.appsyncunified_5.9~julioverne-1_iphoneos-arm.deb
+Size: 48754
+MD5sum: 4e47a3b5affc42232f97e8a08b14cf87
+SHA1: dc834e57cd36b8b3e0cadb3e8d65fe2c800be7d5
+SHA256: d1b0c73ac2d841bed6783781055b21ee2b0af696fe34c392e8aa69d358a3eb16
+Description: AppSync Unified (iOS 10) allows you to sync and install unsigned iOS applications. Works on iOS 5 and above.
+Name: AppSync Unified
 Author: iPhoneTech - #MU <musalehofficial@outlook.com>
-Sponsor: iPhoneTech - #MU <musalehofficial@outlook.com>
-Size: 31kb
-Depends: firmware (>= 9.1), com.alexzielenski.zeppelin
-Filename: ./debs/Zeppelin_Ahly_Zamalek_Addon_.deb
-MD5sum: 8419ca20bff16b2660e236f3914c9f11
-Section: Addons (Zeppelin)
-Description: Replaces carrier text with an ElAhly or ElZamalek logo!
-Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.zeppelinahlyzamalekaddon/index.html
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.appsyncunified/index.html
