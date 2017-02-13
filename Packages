@@ -91,7 +91,7 @@ Replaces: us.hackulo.appsync50
 Provides: appsync
 Depends: firmware (<= 11.0), mobilesubstrate (>= 0.9.5100)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, net.angelxwind.appsyncunified
-Filename: ./files-deb/net.angelxwind.appsyncunified_5.9~julioverne-1_iphoneos-arm.deb
+Filename: ./debs/Appsyncunified_5.9_.deb
 Size: 48754
 MD5sum: 4e47a3b5affc42232f97e8a08b14cf87
 SHA1: dc834e57cd36b8b3e0cadb3e8d65fe2c800be7d5
