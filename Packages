@@ -156,3 +156,18 @@ Description: The new AppCake 5.5.2.0! Introducing Direct Download/Install!  Requ
 Name: AppCake
 Author: iPhoneTech - #MU <musalehofficial@outlook.com>
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.appcake/index.html
+
+Package: com.iphonetech.zeppelinahlyzamalekaddon
+Name: Ahly & Zamalek logo for Zeppelin
+Depends: firmware (>= 7.0), com.alexzielenski.zeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Replaces carrier text with an ElAhly and ElZamalek logo!
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Section: Addons (Zeppelin)
+Filename: ./debs/Zeppelin_Ahly_Zamalek_Addon_1.0_.deb
+Size: 32
+MD5sum: dd815185773129b1c5fa4e9d844d266a
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.zeppelinahlyzamalekaddon/index.html
+Homepage: https://www.fb.com/groups/iphonetech
