@@ -140,3 +140,19 @@ Author: iPhoneTech - #MU <musalehofficial@outlook.com>
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.icleanerpro/index.html
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
+
+Package: com.iphonetech.appcake
+Version: 5.5.2.0
+Section: Utilities
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate, com.iphonetech.appsyncunified
+Architecture: iphoneos-arm
+Filename: ./debs/Appcake_5.5.2.0_.deb
+Size: 8565558
+Icon: file:///Applications/AppCake.app/icon57x57.png
+MD5sum: d405ca4abbd9445c87268439be0357ff
+Description: The new AppCake 5.5.2.0! Introducing Direct Download/Install!  Require AppSync to be installed ***
+Name: AppCake
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.appcake/index.html
