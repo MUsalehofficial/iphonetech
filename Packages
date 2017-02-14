@@ -100,3 +100,43 @@ Description: AppSync Unified (iOS 10) allows you to sync and install unsigned iO
 Name: AppSync Unified
 Author: iPhoneTech - #MU <musalehofficial@outlook.com>
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.appsyncunified/index.html
+
+Package: com.iphonetech.appsyncunified
+Section: Tweaks
+Installed-Size: 364
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Architecture: iphoneos-arm
+Version: 6.0~b1
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, net.angelxwind.appsyncunified
+Filename: ./debs/Appsyncunified_6.0_.deb
+Size: 28060
+MD5sum: 08ebf3470673bd5297e8f15e1d8c35da
+SHA1: 4117cdebf3369df220de4330ebc9b7a38dd18442
+SHA256: d6783f85996bee92effd9aa71b0b81be8a46bb16b49e32d73b165c1b9503ad1b
+Description: AppSync Unified (iOS 10) allows you to sync and install unsigned iOS applications. Works on iOS 5 and above.
+Name: AppSync Unified
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.appsyncunified/index.html
+
+Package: com.iphonetech.icleanerpro
+Version: 7.6.0
+Architecture: iphoneos-arm
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/iCleanerPro_7.6.0_.deb
+Size: 3412148
+MD5sum: 189fcd17a4e578ff7bedf6e4da3c00e0
+SHA1: 7ea0e5ad6db54da7502f16bd6f6c52b90622a17c
+SHA256: 62fdec53c0f7f866e91fb5967daa0525f97c7f1a808fba3d09de098f1eebf1cf
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.icleanerpro/index.html
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
