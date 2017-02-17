@@ -206,31 +206,12 @@ Homepage: https://www.fb.com/MUsalehofficial
 Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
 Sponsor: iPhoneTech - #MU <musalehofficial@outlook.com>
 
-Package: com.iphonetech.libcolorpicker
-Name: libcolorpicker
-Version: 1.6-1
-Architecture: iphoneos-arm
-Author: iPhoneTech - #MU <musalehofficial@outlook.com>
-Depends: firmware (>= 6.0), mobilesubstrate (>=0.9.5000), preferenceloader
-Conflicts: org.thebigboss.libcolorpicker
-Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.libcolorpicker/index.html
-Priority: optional
-Section: Development
-Filename: ./debs/libcolorpicker_1.6-1_.deb
-Size: 71722
-Installed-Size: 376
-MD5sum: f12992a89a3fd29670bf62503efc43cb
-Description: Color picker library for developers.
-Homepage: https://www.fb.com/MUsalehofficial
-Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
-Sponsor: iPhoneTech - #MU <musalehofficial@outlook.com>
-
 Package: com.iphonetech.colorcodedlogs
 Name: Color Coded Logs
 Version: 1.4
 Architecture: iphoneos-arm
 Author: iPhoneTech - #MU <musalehofficial@outlook.com>
-Depends: firmware (>= 7.0), preferenceloader, libcolorpicker
+Depends: firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.colorcodedlogs/index.html
 Priority: optional
 Section: Tweaks
