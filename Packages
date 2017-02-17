@@ -230,7 +230,7 @@ Name: Color Coded Logs
 Version: 1.4
 Architecture: iphoneos-arm
 Author: iPhoneTech - #MU <musalehofficial@outlook.com>
-Depends: firmware (>= 7.0), preferenceloader, com.iphonetech.libcolorpicker
+Depends: firmware (>= 7.0), preferenceloader, libcolorpicker
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.colorcodedlogs/index.html
 Priority: optional
 Section: Tweaks
