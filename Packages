@@ -186,3 +186,22 @@ Size: 32
 MD5sum: f3511ff878907d5cf57561f8c384ed89
 Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.zeppelinahlyzamalekaddon/index.html
 Homepage: https://www.fb.com/groups/iphonetech
+
+Package: com.iphonetech.ntspeed
+Name: NtSpeed
+Version: 0.1
+Architecture: iphoneos-arm
+Author: iPhoneTech - #MU <musalehofficial@outlook.com>
+Depends: firmware (>= 6.0), mobilesubstrate
+Depiction: http://mrjunky.github.io/iphonetech/depic/com.iphonetech.ntspeed/index.html
+Priority: extra
+Section: Tweaks
+Filename: ./debs/NtSpeed_0.1_.deb
+Size: 21794
+SHA256: 68d3d7b2de1ec241c0809fa1a3abd4fae56da7cc7df0866c665e78edb6bf6878
+SHA1: 877df81175a1eb33c6e0cfa73796b05b53b924b5
+MD5sum: d466ef9266a80e227a334e4269191a66
+Description: See Active Traffic Network Speed
+Homepage: https://www.fb.com/MUsalehofficial
+Maintainer: iPhoneTech - #MU <musalehofficial@outlook.com>
+Sponsor: iPhoneTech - #MU <musalehofficial@outlook.com>
